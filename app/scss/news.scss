@@ -1,0 +1,196 @@
+.featured_news
+{
+    background-color: #fff;
+    margin: 0px 10px 0px 10px;
+    
+            .filter
+        {
+            font-size: 14px;
+            padding: 20px;
+            color: #5c5c5c;
+            font-weight: bold;
+        }
+
+        .radio
+        {
+ 
+            font-size: 14px;
+            color: #5c5c5c;
+            margin-left: 20px;
+            input[type="radio"]{
+              
+             }
+
+
+        }
+
+        .latestNews
+        {
+                padding: 10px 0px 0px 20px;
+            font-size: 14px;
+           color: #5c5c5c;
+
+            a {
+                text-decoration: none;
+                color:  #33715e;
+            }
+
+        }
+}
+
+
+.news{
+    border-top: 2px solid #f2f2f2;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    margin: 0px 10px 0px 10px;
+   
+    .news_tittle
+    {
+        font-size: 16px;
+        color: #5c5c5c;
+       
+        
+    }
+    .news_copy
+    {
+        font-size: 14px;
+         color: #5c5c5c;
+        margin-bottom: 10px;
+        
+    }
+    .news_date
+    {
+       color: #5c5c5c;
+       font-size: 14px;
+      
+    }
+    .news_readmore
+    {
+       
+       color:  #9de71d;
+       font-size: 14px;
+       font-weight: bold;
+        
+    }
+}
+
+.news_article
+{
+    padding: 20px;
+      background-color: #fff;
+     margin: 0px 10px 0px 10px;
+    
+    .news_article_heading
+    {
+        font-size: 16px;
+        color: #5c5c5c;
+        margin-bottom: 10px;
+    }
+    
+    .news_article_teaser
+    {
+        font-size: 15px;
+        color: #5c5c5c;
+        margin-bottom: 20px;
+    }
+    .news_article_copy
+    {
+        font-size: 14px;
+        color: #5c5c5c;
+        margin-bottom: 10px;
+        
+       
+    }
+    
+    .list
+    {
+        font-size: 14px;
+        color: #5c5c5c;
+        list-style: none;
+        background: url('../images/li-arrow.png') 0 5px no-repeat;
+        padding-left: 15px;
+            padding-top: 3px;
+        
+        a {
+            font-size: 14px;
+            color: #9de71d;
+         
+        }
+    }
+    hr {
+       border: 0.1em solid #f2f2f2;
+    }
+    .btn_back
+    {
+        font-size: 14px;
+        color:  #9de71d;
+        font-weight: bold;
+    }
+}
+
+.teams_rdb
+{
+    margin: 20px 0 20px 0;
+}
+.radio-inline
+{
+   
+    padding: 0px 17px 0 0;
+    font-size: 14px;
+    color: #5c5c5c;
+}
+
+.team_results
+{
+  font-size: 14px;
+    color: #5c5c5c;
+    
+    li {
+        list-style-type: none;
+        padding-bottom: 5px;
+       
+    }
+}
+.reg_color
+{
+  color: #9de71d;
+    font-weight: bold;
+}
+.terms_list
+{
+    font-size: 14px;
+    color: #5c5c5c;
+    
+    a {
+        color: #9de71d;
+    }
+}
+
+.question
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+.answer
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.try_outs
+{
+    font-weight: bold;
+    border-top: 1px solid #f2f2f2;
+    border-bottom: 1px solid #f2f2f2;
+   padding: 5px 0px 5px 0px;
+    
+    
+}
+.faq_question
+{
+    font-size: 15px;
+    color: #5c5c5c;
+    font-weight: bold;
+}
